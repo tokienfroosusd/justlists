@@ -1,0 +1,20 @@
+{
+  "name": "USDXL List",
+  "logoURI": "https://raw.githubusercontent.com/tokienfroosusd/justlists/main/logo.png",
+  "timestamp": 1700000000000,
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "TTABNCz5p9RbYLEYKPmwGaBdKdg2FMYsB6",
+      "name": "USD",
+      "symbol": "USDTt",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/tokienfroosusd/justlists/main/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
